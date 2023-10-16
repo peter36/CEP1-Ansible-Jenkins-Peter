@@ -1,3 +1,5 @@
 [webserver]
 172.31.43.105 ansible_user=ansiuser
 172.31.47.140 ansible_user=ansiuser
+
+#[other]
